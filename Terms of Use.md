@@ -3,6 +3,7 @@
 
 **19 June 2023**
 
+Example editting.....
 These CRONEX  Terms of Use is entered into between you (hereinafter referred to as “you” or “your”) and CRONEX  operators (as defined below). By accessing, downloading, using or clicking on “I agree” to accept any CRONEX  Services (as defined below) provided by CRONEX  (as defined below), you agree that you have read, understood and accepted all of the terms and conditions stipulated in these Terms of Use (hereinafter referred to as “these Terms”) as well as our Privacy Policy at[ ](https://www.binance.com/ru/privacy)<https://cronex.io/about/privacy>. In addition, when using some features of the Services, you may be subject to specific additional terms and conditions applicable to those features.
 
 Please read the terms carefully as they govern your use of CRONEX  Services. THESE TERMS CONTAIN IMPORTANT PROVISIONS INCLUDING AN ARBITRATION PROVISION THAT REQUIRES ALL CLAIMS TO BE RESOLVED BY WAY OF LEGALLY BINDING ARBITRATION.The terms of the arbitration provision are set forth in Article 10, “Resolving Disputes: Forum, Arbitration, Class Action Waiver”, hereunder. As with any asset, the values of Digital Currencies (as defined below) may fluctuate significantly and there is a substantial risk of economic losses when purchasing, selling, holding or investing in Digital Currencies and their derivatives.BY MAKING USE OF CRONEX  SERVICES, YOU ACKNOWLEDGE AND AGREE THAT: (1) YOU ARE AWARE OF THE RISKS ASSOCIATED WITH TRANSACTIONS OF DIGITAL CURRENCIES AND THEIR DERIVATIVES; (2) YOU SHALL ASSUME ALL RISKS RELATED TO THE USE OF CRONEX  SERVICES AND TRANSACTIONS OF DIGITAL CURRENCIES AND THEIR DERIVATIVES; AND (3) CRONEX  SHALL NOT BE LIABLE FOR ANY SUCH RISKS OR ADVERSE OUTCOMES.
@@ -417,5 +418,5 @@ In the event the dispute cannot be resolved satisfactorily, and you wish to asse
 
 11\. Contact Information.  For more information on CRONEX , you may refer to the company and license information found on CRONEX  websites. If you have questions regarding these Terms, please feel free to contact CRONEX  for clarification via our Customer Support team at[ ](https://www.binance.com/ru/support/requests/new)support@cronex.io.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDE1MjgxNzZdfQ==
+eyJoaXN0b3J5IjpbMTcyMzY0MDE5OCwtMTcwMTUyODE3Nl19
 -->
