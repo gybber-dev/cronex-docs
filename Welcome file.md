@@ -1,7 +1,6 @@
 
 ## <a name="_gjdgxs"></a>**General Risk Warning**
-### <a name="_4a22kvnnu1gj"></a>[**test link**](#_1fob9te)
-###
+
 ### <a name="_nljeakfcbyk8"></a><a name="_30j0zll"></a>**A. How to interpret this Risk Warning**
 All terms used in this notice, which are defined in the Cronex Terms of Use (the “Terms of Use”), have the same meaning and construction as in the Terms of Use.
 ### <a name="_1fob9te"></a>**B. Cronex Services**
@@ -51,5 +50,5 @@ Currency exchange fluctuations will impact your gains and losses.
 ### <a name="_44sinio"></a>**P. Legal Risk**
 Changes in laws and regulations may materially affect the value of Digital Assets. This risk is unpredictable and may vary from market to market.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODY3MDE4NjZdfQ==
+eyJoaXN0b3J5IjpbMjEzNjA4MjE4OF19
 -->
