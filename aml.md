@@ -1,8 +1,6 @@
 Introduction
 ------------
 
-test
-
 The purpose of these Guidelines for Anti-Money Laundering (AML), Combating Terrorist Financing (CFT) and Sanctions measures is to ensure that UAB Cronex (Company) has internal guidelines to prevent the useof its business for Money Laundering and Terrorist Financing and internal guidelines for implementation of international sanctions. These Guidelines have been adopted to ensure that the Company complies with the rules and regulations set out in Republic of Lithuania Law on the Prevention of Money Laundering and Terrorist Financing (Law) and other applicable legislation including the following:
 
 • Technical Requirements for the Customer Identification Process for Remote Identification Authentication via Electronic Devices for Direct Video Transmission approved by the Director of the Financial Crime Investigation Service under the Ministry of Internal Affairs of the Republic of Lithuania on November 30th2016 by Resolution No. V-314 “For the Technical Requirements for the Customer Identification Process for Remote Identification Authentication via Electronic Devices for Direct Video Transmission” (hereinafter –Technical Requirements)
