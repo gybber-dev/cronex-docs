@@ -27,7 +27,7 @@ There are also other potential risks that may not be foreseen in these Terms. Vi
 
 CRONEX uses payment providers for transfers of fiat money for rendering exchange services and operating with the fiat money, whereas assisting banks do not, by any means, represent a medium of exchange, transfer, withdrawal, deposit or other transaction in connection to virtual currencies.
 
-CRONEX shall not ask you for any password or private key, nor shall we ask users to transmit any funds, Bitcoins or other virtual currency to our bank account, Bitcoin address, Ethereum address or other addresses, which are not listed on the trading platform. Please do not trust any discount or promotion related information. CRONEX shall not be responsible for any losses caused by transmitting funds from/to bank accounts, or virtual funds to any addresses that are not listed or given to you on the trading platform. Take care of always accessing CRONEX website through link [https://cronex.io/](https://cronex.io/) and CRONEX exchange through the link: [https://cronex.io/login](https://cronex.io/login). In case of uncertainty or suspicious link is given on forums or received by a suspicious account, user or website, please contact our support immediately and do not transfer any fiat or virtual money to such suspicious links or accounts. In case of uncertainty, always type the website[https://cronex.io](https://cronex.io) or[https://cronex.io/login](https://cronex.io/login) into browser yourself.
+CRONEX shall not ask you for any password or private key, nor shall we ask users to transmit any funds, Bitcoins or other virtual currency to our bank account, Bitcoin address, Ethereum address or other addresses, which are not listed on the trading platform. Please do not trust any discount or promotion related information. CRONEX shall not be responsible for any losses caused by transmitting funds from/to bank accounts, or virtual funds to any addresses that are not listed or given to you on the trading platform. Take care of always accessing CRONEX website through link [https://cronex.io/](https://cronex.io/) and CRONEX exchange through the link: [https://cronex.io/login](https://cronex.io/login). In case of uncertainty or suspicious link is given on forums or received by a suspicious account, user or website, please contact our support immediately and do not transfer any fiat or virtual money to such suspicious links or accounts. In case of uncertainty, always type the website [https://cronex.io](https://cronex.io) or [https://cronex.io/login](https://cronex.io/login) into browser yourself.
 
 For the avoidance of doubt, we do not provide and will never provide any investment advice in connection with the Services described in these Terms of Use either by ourselves or through third parties. Please consider any cooperation with companies that (allegedly) offer financial services as the most risky business and make sure you inspect the alleged financial service provider most carefully. Any decision to purchase or sell virtual assets is solely your decision and we shall not be liable for any loss suffered. Please note that after you transfer the virtual assets to a certain virtual assets wallet account such transfer cannot be revoked and we do not accept any responsibility for your actions.
 
@@ -108,7 +108,7 @@ Users can withdraw (transfer) their virtual assets to another wallet or account.
 
 CRONEX is not responsible in any way for the transfer of your virtual assets outside your CRONEX account.
 
-A user shall receive the purchased crypto assets into his/her wallet instantly (within a few minutes), taking into account swift changes in prices of the crypto asset, momentary crypto asset illiquidity of the crypto asset providers of Cronex and other external circumstances that may affect the speed of crypto asset transfers. In case of not receiving your crypto assets within 24 hours, please contact our technical support:[support@cronex.io](mailto:support@cronex.io).
+A user shall receive the purchased crypto assets into his/her wallet instantly (within a few minutes), taking into account swift changes in prices of the crypto asset, momentary crypto asset illiquidity of the crypto asset providers of Cronex and other external circumstances that may affect the speed of crypto asset transfers. In case of not receiving your crypto assets within 24 hours, please contact our technical support: [support@cronex.io](mailto:support@cronex.io).
 
 Fees for services and exchange rates
 ------------------------------------
@@ -241,5 +241,5 @@ If you would like to contact us regarding Terms of Service, Privacy Policy or Co
 
 **Valid from: 03 February 2023**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzE2NTg5MjhdfQ==
+eyJoaXN0b3J5IjpbLTc2NzU3NDkyMF19
 -->
